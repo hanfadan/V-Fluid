@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Post-Test(1(
+  m_EditorClassIdentifier: 
+  categoryName: Pre-Test
+  questions:
+  - questionInfo: Seekor ikan berada pada kedalaman 80 cm di bawah permukaan air.
+      ika massa jenis air 1000 kg/m<sup>3</sup> , percepatan gravitasi bumi 10 m/s<sup>2</sup>
+      tentukan berapa tekanan hidrostatis ikan ... Kpa
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 800.000
+    - 800
+    - 80.000
+    - 8
+    correctAns: 8
+  - questionInfo: Sebuah benda tercelup sebagian dalam cairan yang memiliki massa
+      jenis 0,8 gr/cm<sup>3</sup> jika volume benda yang tercelup adalah 0,6 dari
+      volume totalnya, tentukan massa jenis benda tersebut..... Kg/m<sup>3</sup>
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 600
+    - 240
+    - 480
+    - 133
+    correctAns: 480
+  - questionInfo: Sebuah dongkrak hidrolik digunakan untuk mengangkat beban. JIka
+      jari-jari pipa kecil adalah 20cm dan dongkrak ingin dibuat untuk mampu mengangkat
+      maksimal beban 500 kali gaya yang dibutuhkan berapakah jari-jari besar pipa
+      yang digunakan ..... m<sup>2</sup>
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 0.2
+    - 5
+    - 2
+    - 20
+    correctAns: 0.2
+  - questionInfo: gaya keatas yang dialami sebuah benda adalah 2 Newton jika dimasukkan
+      kedalam air. Tentukan berapa besar Volume benda yang tercelup ....cm3(g=10m/s<sup>2</sup>)
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 0.0002
+    - 2
+    - 0.02
+    - 200
+    correctAns: 200
+  - questionInfo: Air mengalir dengan laju 7,5 m/s melalui pipa berpenampang 30 
+      cm<sup>2</sup> , air itu disalurkan pada tandon air. Pipa saluran air itu memiliki
+      keran dengan penampang 2 cm<sup>2</sup>. Jika keran dibuka, maka berapakah
+      volume air yang dapat ditampung setelah lima menit ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 5,65 m<sup>3</sup>
+    - 5,75 m<sup>3</sup>
+    - 6,55 m<sup>3</sup>
+    - 6,75 m<sup>3</sup>
+    correctAns: 6,75 m<sup>3</sup>
+  - questionInfo: Bunyi asas kontinuitas adalah ...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Untuk aliran fluida, kecepatan pipa yang berpenampang besar adalah besar, dan
+      kecepatan pipa yang berpenampang kecil adalah kecil
+    - Untuk aliran fluida, kecepatan pipa yang berpenampang besar sama dengan kecepatan
+      pipa yang berpenampang kecil
+    - Untuk aliran fluida, kecepatan pipa yang berpenampang besar adalah kecil, dan
+      kecepatan pipa yang berpenampang kecil adalah besar
+    - Untuk aliran fluida, kecepatan pipa yang berpenampang besar adalah kecil, dan
+      kecepatan pipa yang berpenampang kecil adalah besar
+    correctAns: atan pipa yang berpenampang kecil adalah besarnampang besar adalah
+      kecil, dan kecepatan pipa yang berpenampang kecil adalah besar
+  - questionInfo: "Air mengalir melalui pipa dari titik A ke titik B. Bila jari-jari
+      penampang A 2 kali penampang B, maka vA : vB yaitu \u2026"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 241dd430e09051448a07a56c1a18dd01, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '1 : 2'
+    - '2 : 1'
+    - '4 : 1'
+    - ' 1 : 4'
+    correctAns: '1 : 4'
+  - questionInfo: '"pada fluida yang mengalir dengan kecepatan lebih tinggi akan
+      diperoleh tekanan yang lebih kecil" , kalimat tersebut merupakan bunyi asas
+      ?'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Archimedes
+    - Bernoulli
+    - Pascal
+    - Kapilaritas
+    correctAns: Bernoulli
+  - questionInfo: "Gambar tersebut memperlihatkan air yang memancar dari sebuah tangki
+      air yang diletakkan pada suatu ketinggian tertentu. Besar kecepatan air yang
+      keluar adalah \u2026."
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 3e1fac2fd866aab44a5c1764e75579b4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1 m/s
+    - 5 m/s
+    - 4 m/s
+    - 2 m/s
+    correctAns: 4 m/s
+  - questionInfo: Alat berikut yang merupakan penerapan hukum Pascal adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - water pass
+    - galangan kapal
+    - pompa hidrolik
+    - balon udara
+    correctAns: pompa hidrolik

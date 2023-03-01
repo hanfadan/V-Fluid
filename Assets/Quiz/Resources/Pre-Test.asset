@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Pre-Test
+  m_EditorClassIdentifier: 
+  categoryName: Post-Test
+  questions:
+  - questionInfo: Gaya ke atas yang bekerja pada sebuah benda di dalam zat cair sebanding
+      dengan ....
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - berat benda
+    - massa jenis zat cair dan berat benda
+    - massa jenis zat cair dan volume benda yang tercelup
+    - massa jenis benda dan volume benda seluruhnya
+    correctAns: massa jenis zat cair dan volume benda yang tercelup
+  - questionInfo: Besarnya tekanan hidrostatik ditentukan oleh ....
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - volume dan kedalaman zat cair
+    - massa jenis zat cair dan kedalaman zat cair
+    - massa jenis zat cair, volume dan kedalaman zat cair
+    - massa jenis zat cair, percepatan gravitasi dan kedalaman zat cair
+    correctAns: massa jenis zat cair, percepatan gravitasi dan kedalaman zat cair
+  - questionInfo: ' Alat berikut yang merupakan penerapan hukum Pascal adalah...'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - water pass
+    - pompa hidrolik
+    - galangan kapal
+    - balon udara
+    correctAns: pompa hidrolik
+  - questionInfo: Sebuah pesawat terbang dapat mengangkasa karena .....
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - berat pesawat lebih kecil dari berat udara yang dipindahkan
+    - gaya angkat mesin pesawat
+    - perubahan momentum pesawat
+    - perbedaan tekanan dari aliran-aliran udara
+    correctAns: perbedaan tekanan dari aliran-aliran udara
+  - questionInfo: ' "pada fluida yang mengalir dengan kecepatan lebih tinggi akan
+      diperoleh tekanan yang lebih kecil" , kalimat tersebut merupakan bunyi asas
+      ?'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - archimedes
+    - bernoulli
+    - pascal
+    - kapilaritas
+    correctAns: bernoulli
+  - questionInfo: "Sebuah pipa U mula-mula diisi dengan air yang massa jenisnya 1000
+      kg/m<sup>3</sup> kemudian pada salah satu pipa dituangkan minyak goreng sehingga
+      posisi stabil tampak seperti gambar. Jika tinggi kolom minyak 8 cm dan kolom
+      air 5 cm, besarnya massa jenis minyak goreng adalah \u2026."
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8d28cf4d79907b84d84edea3a61171d4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 520 kg/m<sup>3</sup>
+    - '525 kg/m<sup>3</sup> '
+    - '600 kg/m<sup>3</sup> '
+    - 625 kg/m<sup>3</sup>
+    correctAns: 625 kg/m<sup>3</sup>
+  - questionInfo: Serangga dapat berjalan pada permukaan air, karena....
+    questionType: 1
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - berat jenis serangga lebih kecil daripada air
+    - berat jenis serangga lebih besar daripada air
+    - gaya apung archimedes
+    - tegangan permukaan air
+    correctAns: tegangan permukaan air
+  - questionInfo: "Posisi pipa besar adalah 5 m di atas tanah dan pipa kecil 1 m
+      di atas tanah. Kecepatan aliran air pada pipa besar adalah 36 km/jam dengan
+      tekanan 9,1 \xD7 10<sup>5</sup> Pa, sedangkan tekanan di pipa yang kecil 2
+      \xD7 10<sup>5</sup> Pa. Jika massa jenis air 1000 kg/m<sup>3</sup> maka kecepatan
+      air pada pipa kecil adalah \u2026."
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3eca5a33f1a67fe4986326049f6fbfd7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 10 m/s
+    - 20 m/s
+    - 30 m/s
+    - 40 m/s
+    correctAns: 40 m/s
+  - questionInfo: Sebuah pipa air mempunyai luas penampang 2,5cm<sup>2</sup> . Jika
+      kecepatan aliran air yang keluar 0,2 meter/detik, maka debit air yang keluar
+      adalah....
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 25 cm<sup>3</sup> /detik
+    - 50 cm<sup>3</sup> /detik
+    - 55 cm<sup>3</sup> /detik
+    - 65 cm<sup>3</sup> /detik
+    correctAns: 50 cm<sup>3</sup> /detik
+  - questionInfo: "Ketika batang penghisap M ditekan, udara dipaksa keluar dari tabung
+      pompa dengan kecepatan v melalui lubang pada ujungnya. P menyatakan tekanan
+      dan v menyatakan kecepatan alir cairan obat nyamuk, maka pernyataan yang benar
+      dari prinsip kerja penyemprot nyamuk tersebut adalah \u2026."
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c15528bfef49adc499f6d536f2c61217, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - P<sub>1</sub> < P<sub>2</sub>, maka v<sub>1</sub> < v<sub>2</sub>
+    - P<sub>1</sub> > P<sub>2</sub>, maka v<sub>1</sub> < v<sub>2</sub>
+    - P<sub>1</sub> < P<sub>2</sub>, maka v<sub>1</sub> > v<sub>2</sub>
+    - P<sub>1</sub> > P<sub>2</sub>, maka v<sub>1</sub> > v<sub>2</sub>
+    correctAns: P<sub>1</sub> > P<sub>2</sub>, maka v<sub>1</sub> < v<sub>2</sub>
